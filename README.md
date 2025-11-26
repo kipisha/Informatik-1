@@ -2,11 +2,10 @@
 Informatik 1 LN 
 
 Mannschaft
-Am Projekte arbeiten
 
-Kipisha Selvan (selvakip@students.zhaw.ch)
-Darlene Armenio (armdar01@students.zhaw.ch)
-Mimoza Mehmeti (mehmemim@students.zhaw.ch)
+-Kipisha Selvan (selvakip@students.zhaw.ch)
+-Darlene Armenio (armdar01@students.zhaw.ch)
+-Mimoza Mehmeti (mehmemim@students.zhaw.ch)
 
 
 Projektidee:
