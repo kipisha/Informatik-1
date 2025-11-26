@@ -16,7 +16,7 @@ Wir Untersuchen, wie und warum die Malaria-Verbreitung über das 20. Jahrhundert
 
 Wie und warum hat sich die globale Verbreitung und Sterblichkeit von Malaria seit dem 20. Jahrhundert verändert — und welche Faktoren (z. B. Gesundheitsmaßnahmen, Insektizidnutzung, wirtschaftliche Entwicklung, Landnutzung) erklären den Rückgang bzw. die Regionalisierung der Krankheit?
 
-## Link:
+Link:
 https://ourworldindata.org/malaria
 
 
