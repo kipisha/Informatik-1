@@ -18,5 +18,6 @@ Wie und warum hat sich die globale Verbreitung und Sterblichkeit von Malaria sei
 
 Link:
 https://ourworldindata.org/malaria
+https://ourworldindata.org/grapher/global-malaria-deaths-by-world-region?time=2000..2020
 
 
