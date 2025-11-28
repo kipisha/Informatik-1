@@ -1,4 +1,4 @@
-# Informatik-1
+# Malaria im Wandel 
 Informatik 1 LN 
 
 ## Mannschaft
