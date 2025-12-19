@@ -1,12 +1,11 @@
 # Informatik-1
-Informatik 1 LN
+### Malaria: Wandel der globalen  Verbreitung 
 
  **Gruppe:**
 - Kipisha Selvan (selvakip@students.zhaw.ch)
 - Darlene Armenio (armdar01@students.zhaw.ch)
 - Mimoza Mehmeti (mehmemim@students.zhaw.ch)
- 
- 
+
 **Projektidee:**
  
 Wir Untersuchen, wie und warum die Malaria-Verbreitung über das 20. Jahrhundert weltweit stark zurückgegangen ist und welche Faktoren (z. B. wirtschaftliche Entwicklung, Landnutzung, Gesundheitsmaßnahmen) dabei eine zentrale Rolle gespielt haben.
@@ -17,5 +16,6 @@ Wir Untersuchen, wie und warum die Malaria-Verbreitung über das 20. Jahrhundert
 - Welche mögliche Ursachen können den beobachteten Rückgang der Malaria-Todesfälle erklären?
  
 **Link:**
+
 - https://ourworldindata.org/malaria
 - https://www.who.int/news-room/fact-sheets/detail/malaria
